@@ -1,0 +1,7 @@
+*.ucls
+*.jpg
+doc/
+bin/
+.settings/
+.classpath
+.project
