@@ -1,4 +1,4 @@
-# Tic-tac-toe
+# Tic-tac-toe (*Built in 2015*)
 This Java tic-tac-toe program was developed for a programming assignment in 2015 during my 2nd semester as a CS undergrad 
 at Mittweida University of Applied Sciences. It utilizes the [minimax](https://en.wikipedia.org/wiki/Minimax) algorithm and optimizes it using [alpha-beta-pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning)
 to simulate an unbeatable oponent on 3x3 and 4x4 boards. 
